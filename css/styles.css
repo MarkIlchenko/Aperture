@@ -1124,6 +1124,7 @@ body.nav-active .nav__list-item:nth-child(10) {
     position: relative;
     display: inline-block;
 }
+
 #circle {
     position: absolute;
     top: -11px;
@@ -1237,7 +1238,7 @@ body.light .switch-wrap p span:nth-child(1):before {
         display: inline-block;
     }
     .nav__list li:first-child a{
-        font-family: 'Poppins';
+        font-family: Poppins;
         font-style: normal;
         font-weight: 400;
         font-size: 18px;
@@ -1248,7 +1249,7 @@ body.light .switch-wrap p span:nth-child(1):before {
         background-color: rgba(0, 0, 0, 0);
     }
     .nav__list li a {
-        font-family: 'Poppins';
+        font-family: Poppins;
         font-style: normal;
         font-weight: 400;
         font-size: 22px;
@@ -1256,7 +1257,7 @@ body.light .switch-wrap p span:nth-child(1):before {
         color: #FFFFFF;
     }
     .nav__list li:last-child a {
-        font-family: 'Poppins';
+        font-family: Poppins;
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
@@ -1267,6 +1268,7 @@ body.light .switch-wrap p span:nth-child(1):before {
         padding: 16px 32px;
         background-color: #FFFFFF;
         border-radius: 14px;
+        margin-top: 16px;
     }
 }
 .nav {
@@ -1295,7 +1297,7 @@ body.light .switch-wrap p span:nth-child(1):before {
         height: 0;
     }
     .nav__list li:first-child a{
-        font-family: 'Poppins';
+        font-family: Poppins;
         font-style: normal;
         font-weight: 400;
         font-size: 13px;
@@ -1305,16 +1307,25 @@ body.light .switch-wrap p span:nth-child(1):before {
     .nav__list li a:after{
         background-color: rgba(0, 0, 0, 0);
     }
-    .nav__list li a {
-        font-family: 'Poppins';
+    .hover-target {
+        font-family: Poppins;
         font-style: normal;
         font-weight: 400;
         font-size: 15px;
         line-height: 20px;
         color: #FFFFFF;
     }
+    .nav__list li a {
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 20px;
+        color: #FFFFFF;
+        letter-spacing: 0;
+    }
     .nav__list li:last-child a {
-        font-family: 'Poppins';
+        font-family: Poppins;
         font-style: normal;
         font-weight: 400;
         font-size: 16px;

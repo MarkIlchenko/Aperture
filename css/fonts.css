@@ -65,24 +65,24 @@ h4 {
     line-height: 20px;
     color: #C0C0C0;
 }
-header nav ul li a {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 20px;
-    color: #FFFFFF;
-}
-header nav ul li {
-    list-style: none;
-}
-header nav ul li:first-child a {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 20px;
-}
+/*header nav ul li a {*/
+/*    font-family: 'Poppins';*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*    font-size: 15px;*/
+/*    line-height: 20px;*/
+/*    color: #FFFFFF;*/
+/*}*/
+/*header nav ul li {*/
+/*    list-style: none;*/
+/*}*/
+/*header nav ul li:first-child a {*/
+/*    font-family: 'Poppins';*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*    font-size: 13px;*/
+/*    line-height: 20px;*/
+/*}*/
 .headline_2 {
     font-family: 'Poppins';
     font-style: normal;
@@ -92,18 +92,18 @@ header nav ul li:first-child a {
     letter-spacing: 2px;
     color: #FFFFFF;
 }
-header nav ul li:last-child a{
-    padding: 9px 20px 13px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 20px;
-    letter-spacing: 0.4px;
-    color: #000000;
-    background: #FFFFFF;
-    border-radius: 14px;
-}
+/*header nav ul li:last-child a{*/
+/*    padding: 9px 20px 13px;*/
+/*    font-family: 'Poppins';*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*    font-size: 16px;*/
+/*    line-height: 20px;*/
+/*    letter-spacing: 0.4px;*/
+/*    color: #000000;*/
+/*    background: #FFFFFF;*/
+/*    border-radius: 14px;*/
+/*}*/
 .d-flex article a {
     font-family: 'Poppins';
     font-style: normal;
