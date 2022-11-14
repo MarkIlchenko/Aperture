@@ -1,44 +1,8 @@
-h1 {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 54px;
-    line-height: 59px;
-    color: #FFFFFF;
-}
-h2 {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 42px;
-    color: #FFFFFF;
-}
-h3 {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 28px;
-    line-height: 32px;
-    color: #FFFFFF;
-}
-h4 {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 30px;
-    color: #C0C0C0;
-}
-.headline {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
-    letter-spacing: 2px;
-    color: #C0C0C0;
-}
+
+
+
+
+
 .subhead {
     font-family: 'Poppins';
     font-style: normal;
@@ -121,23 +85,7 @@ h4 {
     max-width: 143px;
     align-items: center;
 }
-.button {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 32px;
-    letter-spacing: 0.4px;
-    border-radius: 14px;
-    align-items: center;
-    color: #000000;
-    box-sizing: border-box;
-    background-color: white;
-    padding: 5px 10px 5px 4px;
-    display: flex;
-    max-width: fit-content;
-    align-items: center;
-}
+
 footer .container {
     max-width: 1168px;
     margin: auto;
